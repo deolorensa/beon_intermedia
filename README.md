@@ -14,7 +14,7 @@ php artisan migrate --seed
 To start the development server, run these commands:
 ```
 php artisan serve
-```
+
 npm run dev
 ```
 
